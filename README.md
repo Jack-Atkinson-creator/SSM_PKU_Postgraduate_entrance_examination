@@ -105,7 +105,7 @@ Summary：408难点在于知识点多、琐碎。对我来说比较棘手的是�
 
 （3）唐迟老师阅读课 ；
 
-（4）王晶婷老师B站作文带写课：[大作文课](https://www.bilibili.com/video/BV1RQ4y1B7cn?spm_id_from=333.999.0.0)
+（4）王晶婷老师B站作文带写课：[大作文课](https://www.bilibili.com/video/BV1RQ4y1B7cn?spm_id_from=333.999.0.0) ，
   [小作文课](https://www.bilibili.com/video/BV1eT4y1R7bw?spm_id_from=333.999.0.0)
 
 #### 时间安排：
@@ -156,7 +156,9 @@ Summary：最近在软微复试群交流成绩的时候，发现英语主观题�
 ## 6.后记
 
   在考研过程中，感谢各位同学对我的支持和鼓励，也非常非常感谢21考研的学长学姐和CC98的各位热心朋友解答我在备考过程中遇到的一些问题。我考研过程中，心态也不是每天都很好，但是收到了很多鼓励和祝福，包括98er的鼓励、自己班同学和班主任的鼓励和祝福，以及复试前班主任带着几个上岸的同学的帮助，让我在考研这趟车上顺利到达北大的彼岸。
+  
   祝未来要考研的学弟学妹们一战成硕！
+  
   **I'm waiting for you at the School of Software & Microelectronics, Peking University!**
 
 
