@@ -6,7 +6,8 @@
 ### 考研情况
 初试415，排名11，复试后综合排名18，明细如下：
 
-![640](https://user-images.githubusercontent.com/71262284/180789687-997bdb53-62b0-4433-b4ce-0596491557c0.jpg)
+![6069f33c75d32bb3678e5946013e913](https://user-images.githubusercontent.com/71262284/180796252-90d634a0-e64b-429a-b9b1-4ad271868e70.png)
+
 
 分数线55/55/90/90，350
 
