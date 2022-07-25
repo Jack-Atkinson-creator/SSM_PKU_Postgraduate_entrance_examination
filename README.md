@@ -1,2 +1,1 @@
-# SSM_PKU_Postgraduate_entrance_examination
-22北大软件工程考研经验贴
+22北大软件工程专硕考研经验贴
